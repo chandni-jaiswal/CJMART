@@ -1,0 +1,11 @@
+.content-body{
+    min-height: 100%;
+    padding: 60px 1rem;
+    background: rgb(58, 141, 141);
+    display: block;
+}
+main{
+  margin-top: 2rem;
+  width: 80%;
+  margin-left: 2rem;
+}
